@@ -1,0 +1,4 @@
+#Mon Aug 08 21:13:32 EAT 2022
+base.0=C\:\\Users\\rixto\\Courses\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
