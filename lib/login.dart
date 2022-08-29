@@ -29,6 +29,7 @@ class MyStatefulWidget extends StatefulWidget {
 
 class _MyStatefulWidgetState extends State<MyStatefulWidget> {
   TextEditingController nameController = TextEditingController();
+  TextEditingController yearController = TextEditingController();
   TextEditingController passwordController = TextEditingController();
 
   @override
@@ -67,7 +68,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
             Container(
               padding: const EdgeInsets.all(10),
               child: TextField(
-                controller: nameController,
+                controller: yearController,
                 decoration: const InputDecoration(
                   border: OutlineInputBorder(),
                   labelText: 'KCSE YEAR',

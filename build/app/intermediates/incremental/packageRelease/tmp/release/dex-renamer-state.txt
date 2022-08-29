@@ -1,0 +1,4 @@
+#Mon Aug 29 15:50:54 EAT 2022
+base.0=C\:\\Users\\rixto\\Courses\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
