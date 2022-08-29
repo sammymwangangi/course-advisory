@@ -1,4 +1,4 @@
-import 'package:dashboard/screens/main_screen.dart';
+import 'package:dashboard/Login.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Course Advisory System',
       theme: ThemeData(fontFamily: "Poppins"),
-      home: const MainScreen(),
+      home: const Login(),
     );
   }
 }
