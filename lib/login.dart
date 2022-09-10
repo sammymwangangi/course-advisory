@@ -1,4 +1,5 @@
 import 'package:dashboard/screens/main_screen.dart';
+import 'package:dashboard/screens/onboard.dart';
 import 'package:flutter/material.dart';
 
 
@@ -122,7 +123,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
         ));
   }
   void _navigateToNextScreen(BuildContext context) {
-    Navigator.of(context).push(MaterialPageRoute(builder: (context) => const MainScreen()));
+    Navigator.of(context).push(MaterialPageRoute(builder: (context) => const OnBoard()));
   }
 }
 
