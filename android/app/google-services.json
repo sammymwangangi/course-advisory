@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782979798677",
+    "project_id": "mybot-obhj",
+    "storage_bucket": "mybot-obhj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782979798677:android:13fea582160ba988b36d9c",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782979798677-ro3c6thg4k5inhqn1r4potke4kkt31lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4I6eFdxcI02dKi43PYk_Xvya_RnEJ7AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782979798677-ro3c6thg4k5inhqn1r4potke4kkt31lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

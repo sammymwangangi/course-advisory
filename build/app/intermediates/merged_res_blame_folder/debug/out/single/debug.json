@@ -16,10 +16,6 @@
         "source": "C:\\Users\\rixto\\Courses\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\rixto\\Courses\\build\\app\\intermediates\\merged_res\\debug\\drawable_launch_background.xml.flat",
-        "source": "C:\\Users\\rixto\\Courses\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
-    },
-    {
         "merged": "C:\\Users\\rixto\\Courses\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\rixto\\Courses\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
